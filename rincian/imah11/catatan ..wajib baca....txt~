@@ -1,0 +1,23 @@
+catatan :
+
+
+3. untuk kelompok = knpa sudah ngiisi otomatis  tapi diprogram masih kosong..
+                   nanti program dibikin cari button kelompok jadi misal ngetik A/B 
+                   muncul siswa2nya
+
+5.jenis_pembayaran = aksi hapus gk berfungsi
+                     untuk atur tarif misal aku ngisi kelas AB, mengisi iuran uang gedung 500000 semua iuran akan sama 
+                     jika mau ke iuran majalah tau seragam ora bisa diedit gara2 kelas sudah ada ...
+                     padahal niate cuma mau ganti nominalnya aja khusus majalah 75000 seragam 150000 solusinya piye...
+6. pembayaran siswa = button bayar diklik kolom bayar diisi apa dan simpannya belum berfungsi...
+                      aku masih bingung misal sudah bayar katanya kan di bayar bulanan jadi item itu carane piye apa ngikut dibutton bayar ..
+
+
+7. tabungan nama siswa gk mau muncul
+
+8. laporan ( bentuknya nanti sesuai foto ya, yang dibikn laporan: lap.pembayaran siswa,pemasukan_lain, dan pengeluaran, untuk  pengguna, setting, cetak langsung printout bukan cuma tampil data doang 
+
+9. setiap transaksi pembayaran spp, majalah, seragam, pemasukan_lain, pengeluaran dibuat bukti ow bentuk seperti difoto.
+
+10. yang ini baru tampilan admin? tampilan umum/utama web rombongan home profil jenis prestasi dll belum dibikin kn ya..
+   ntar ngikut yang ada di folder tampilan umum.
